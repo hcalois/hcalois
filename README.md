@@ -1,21 +1,22 @@
 <div align="center">
   <a href="https://henrique-valois.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=D6F23A&center=true&vCenter=true&width=640&lines=Engenheiro+de+Software+Jr.;Full-stack+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+IA;Do+banco+de+dados+%C3%A0+interface.;Quod+est+superius+est+sicut+quod+inferius." alt="Engenheiro de Software Jr. · Full-stack · Automação · IA">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=D6F23A&center=true&vCenter=true&width=640&lines=Engenheiro+de+Software+Jr.;Back-end+com+Java;Estruturas+de+dados+%C2%B7+POO+%C2%B7+APIs;Quod+est+superius+est+sicut+quod+inferius." alt="Engenheiro de Software Jr. · Back-end com Java">
   </a>
 </div>
 
 <a href="https://henrique-valois.vercel.app">
-  <img src="./src/header.svg" width="100%" alt="Henrique Valois — Engenheiro de Software Jr. Java, React, Next.js, Supabase e n8n.">
+  <img src="./src/header.svg" width="100%" alt="Henrique Valois — Engenheiro de Software Jr. Back-end Java: POO, SQL, APIs REST e AWS.">
 </a>
 
 <p align="center">
-  Engenheiro de software júnior. Construo sistemas web de ponta a ponta — da modelagem do banco de dados à interface —,
-  com segurança em múltiplas camadas, integrações entre plataformas e automações que trabalham sozinhas.
-  Estudante de Análise e Desenvolvimento de Sistemas na AGES, aprofundando back-end com Java e AWS.
+  Engenheiro de software júnior com foco em <b>back-end Java</b>. Gosto de resolver o problema por baixo —
+  modelagem de dados, APIs, segurança em múltiplas camadas e integrações entre sistemas.
+  Hoje trabalho num ERP modular e em automações com n8n; na AGES, curso Análise e Desenvolvimento de Sistemas
+  e aprofundo orientação a objetos, estruturas de dados, algoritmos e AWS.
 </p>
 
 <p align="center">
-  <sub><b>AGORA</b>&nbsp; Dev Jr. @ Grupo Sing &nbsp;&nbsp;·&nbsp;&nbsp; <b>FORMAÇÃO</b>&nbsp; ADS — AGES, 2028 &nbsp;&nbsp;·&nbsp;&nbsp; <b>BASE</b>&nbsp; Capim Grosso, BA</sub>
+  <sub><b>FOCO</b>&nbsp; Back-end Java &nbsp;&nbsp;·&nbsp;&nbsp; <b>AGORA</b>&nbsp; Dev Jr. @ Grupo Sing &nbsp;&nbsp;·&nbsp;&nbsp; <b>FORMAÇÃO</b>&nbsp; ADS — AGES, 2028 &nbsp;&nbsp;·&nbsp;&nbsp; <b>BASE</b>&nbsp; Capim Grosso, BA</sub>
 </p>
 
 #
@@ -37,7 +38,7 @@
 
 ### Arsenal — a tabela periódica
 
-<img src="./src/stack.svg" width="100%" alt="Fogo: React, Next.js, TypeScript, JavaScript. Água: Supabase, PostgreSQL, APIs REST, Java. Ar: n8n, Webhooks, integrações, IA aplicada. Terra: segurança, AWS, Git, ágil.">
+<img src="./src/stack.svg" width="100%" alt="Fogo: Java, POO, estruturas de dados, algoritmos. Água: SQL, PostgreSQL, APIs REST, microsserviços. Ar: n8n, Webhooks, integrações, IA aplicada. Terra: segurança, AWS, Git, ágil.">
 
 #
 
