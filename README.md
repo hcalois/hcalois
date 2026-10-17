@@ -5,7 +5,7 @@
 </div>
 
 <a href="https://henrique-valois.vercel.app">
-  <img src="./src/header.svg" width="100%" alt="Henrique Valois — Engenheiro de Software Jr. React, Next.js, TypeScript, Supabase e n8n.">
+  <img src="./src/header.svg" width="100%" alt="Henrique Valois — Engenheiro de Software Jr. Java, React, Next.js, Supabase e n8n.">
 </a>
 
 <p align="center">
