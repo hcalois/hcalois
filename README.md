@@ -1,68 +1,56 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  <a href="https://henrique-valois.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=D6F23A&center=true&vCenter=true&width=640&lines=Engenheiro+de+Software+Jr.;Full-stack+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+IA;Do+banco+de+dados+%C3%A0+interface.;Quod+est+superius+est+sicut+quod+inferius." alt="Engenheiro de Software Jr. · Full-stack · Automação · IA">
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<a href="https://henrique-valois.vercel.app">
+  <img src="./src/header.svg" width="100%" alt="Henrique Valois — Engenheiro de Software Jr. React, Next.js, TypeScript, Supabase e n8n.">
+</a>
+
+<p align="center">
+  Engenheiro de software júnior. Construo sistemas web de ponta a ponta — da modelagem do banco de dados à interface —,
+  com segurança em múltiplas camadas, integrações entre plataformas e automações que trabalham sozinhas.
+  Estudante de Análise e Desenvolvimento de Sistemas na AGES, aprofundando back-end com Java e AWS.
+</p>
+
+<p align="center">
+  <sub><b>AGORA</b>&nbsp; Dev Jr. @ Grupo Sing &nbsp;&nbsp;·&nbsp;&nbsp; <b>FORMAÇÃO</b>&nbsp; ADS — AGES, 2028 &nbsp;&nbsp;·&nbsp;&nbsp; <b>BASE</b>&nbsp; Capim Grosso, BA</sub>
+</p>
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
+<img align="right" height="190" src="https://media.giphy.com/media/5ZTycLGtyk2fsIwD1R/giphy.gif" alt="Animação de Richard A. Chance: alguém exausto diante do computador, com uma arte rosa na tela">
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+### Vamos conversar
 
-<h3 align="left">Connect with me!</h3>
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-080808?style=for-the-badge&logo=vercel&logoColor=D6F23A)](https://henrique-valois.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nI0Q2RjIzQScgZD0nTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFonLz48L3N2Zz4=)](https://www.linkedin.com/in/henriquesoftware)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-080808?style=for-the-badge&logo=whatsapp&logoColor=D6F23A)](https://wa.me/5574991149492)
+[![E-mail](https://img.shields.io/badge/E--mail-080808?style=for-the-badge&logo=gmail&logoColor=D6F23A)](mailto:hvalois48@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-080808?style=for-the-badge&logo=instagram&logoColor=D6F23A)](https://www.instagram.com/thishenrique_is/)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-080808?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjRDZGMjNBJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+PHBhdGggZD0nTTEyIDN2MTJNNyAxMGw1IDUgNS01TTUgMjFoMTQnLz48L3N2Zz4=)](https://henrique-valois.vercel.app/assets/cv/Curriculo-Henrique-Valois.pdf)
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+<sub>Portfólio em português e <a href="https://henrique-valois.vercel.app/?lang=en">em inglês</a>. Lá dentro, aperte <kbd>Ctrl</kbd> + <kbd>K</kbd> ou digite <code>help</code> no terminal.</sub>
 
+<br clear="right">
 
-<h3 align="left">My Stack ~</h3>
+### Arsenal — a tabela periódica
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-</div>
+<img src="./src/stack.svg" width="100%" alt="Fogo: React, Next.js, TypeScript, JavaScript. Água: Supabase, PostgreSQL, APIs REST, Java. Ar: n8n, Webhooks, integrações, IA aplicada. Terra: segurança, AWS, Git, ágil.">
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+<div align="center">
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
+### Ouroboros — a cobra que come os próprios commits
 
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcalois/hcalois/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcalois/hcalois/output/github-contribution-grid-snake.svg">
+  <img alt="Cobra percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/hcalois/hcalois/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+<sub><i>“É preciso imaginar Sísifo feliz.”</i> — Albert Camus &nbsp;·&nbsp; GIF: <a href="https://giphy.com/gifs/pink-pastel-studio-5ZTycLGtyk2fsIwD1R">Richard A. Chance</a></sub>
+
+</div>

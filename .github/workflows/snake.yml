@@ -7,25 +7,25 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake GIF
+      # cores do portfólio: preto, osso e verde-limão (#d6f23a)
+      - name: Generate snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake2.gif?color_snake=blue&color_background=%23ffffff&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9
+            dist/github-contribution-grid-snake.svg?color_snake=#080808&color_dots=#ebedf0,#e4f5a0,#c9e45f,#9fbe2a,#6b8512
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#d6f23a&color_dots=#161b22,#2b350f,#4c5f16,#88a623,#d6f23a
 
-      - name: Publish to GitHub Pages (output branch)
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
